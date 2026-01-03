@@ -219,9 +219,11 @@ Contributions, issues, and feature requests are welcome!
 
 ## 👨‍💻 Author
 
+## 👨‍💻 Author
+
 **Deepanshu Singh**
 - GitHub: [@deepanshu-singh22](https://github.com/deepanshu-singh22)
-- LinkedIn: [Your LinkedIn Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/deepanshu-singh-6748b22ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- LinkedIn: [Deepanshu Singh](https://www.linkedin.com/in/deepanshu-singh-6748b22ba)
 
 ## 📄 License
 
